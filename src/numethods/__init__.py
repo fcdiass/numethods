@@ -1,0 +1,4 @@
+from numethods.roots import bisection, false_position
+from numethods.roots.solution import RootResult
+
+__all__ = ["bisection", "false_position", "RootResult"]

@@ -1,0 +1,96 @@
+# Roadmap
+
+Topics planned for NuMethods, following the structure of Chapra & Canale's *Numerical Methods for Engineers* (8th ed., McGraw-Hill, 2021).
+
+- [ ] **Part 1 – Modeling, Computers, and Error Analysis**
+  - [ ] Ch. 1 – Mathematical Modeling and Engineering Problem Solving
+  - [ ] Ch. 2 – Programming and Software
+  - [ ] Ch. 3 – Approximations and Round-Off Errors
+  - [ ] Ch. 4 – Truncation Errors and the Taylor Series
+- [ ] **Part 2 – Roots of Equations**
+  - [x] Ch. 5 – Bracketing Methods
+    - [x] 5.2 The Bisection Method
+    - [x] 5.3 The False-Position Method
+  - [ ] Ch. 6 – Open Methods
+    - [ ] 6.1 Simple Fixed-Point Iteration
+    - [ ] 6.2 The Newton-Raphson Method
+    - [ ] 6.3 The Secant Method
+    - [ ] 6.4 Brent's Method
+    - [ ] 6.5 Multiple Roots
+    - [ ] 6.6 Systems of Nonlinear Equations
+  - [ ] Ch. 7 – Roots of Polynomials
+    - [ ] 7.3 Conventional Methods
+    - [ ] 7.4 Müller's Method
+    - [ ] 7.5 Bairstow's Method
+  - [ ] Ch. 8 – Case Studies: Roots of Equations
+- [ ] **Part 3 – Linear Algebraic Equations**
+  - [ ] Ch. 9 – Gauss Elimination
+  - [ ] Ch. 10 – LU Decomposition and Matrix Inversion
+  - [ ] Ch. 11 – Special Matrices and Gauss-Seidel
+  - [ ] Ch. 12 – Case Studies: Linear Algebraic Equations
+- [ ] **Part 4 – Optimization**
+  - [ ] Ch. 13 – One-Dimensional Unconstrained Optimization
+    - [ ] 13.1 Golden-Section Search
+    - [ ] 13.2 Parabolic Interpolation
+    - [ ] 13.3 Newton's Method
+    - [ ] 13.4 Brent's Method
+  - [ ] Ch. 14 – Multidimensional Unconstrained Optimization
+    - [ ] 14.1 Direct Methods
+    - [ ] 14.2 Gradient Methods
+  - [ ] Ch. 15 – Constrained Optimization
+    - [ ] 15.1 Linear Programming
+    - [ ] 15.2 Nonlinear Constrained Optimization
+  - [ ] Ch. 16 – Case Studies: Optimization
+- [ ] **Part 5 – Curve Fitting**
+  - [ ] Ch. 17 – Least-Squares Regression
+    - [ ] 17.1 Linear Regression
+    - [ ] 17.2 Polynomial Regression
+    - [ ] 17.3 Multiple Linear Regression
+    - [ ] 17.4 General Linear Least Squares
+    - [ ] 17.5 Nonlinear Regression
+  - [ ] Ch. 18 – Interpolation
+    - [ ] 18.1 Newton's Divided-Difference Interpolating Polynomials
+    - [ ] 18.2 Lagrange Interpolating Polynomials
+    - [ ] 18.6 Spline Interpolation
+  - [ ] Ch. 19 – Fourier Approximation
+    - [ ] 19.1 Curve Fitting with Sinusoidal Functions
+    - [ ] 19.2 Continuous Fourier Series
+    - [ ] 19.5 Discrete Fourier Transform (DFT)
+    - [ ] 19.6 Fast Fourier Transform (FFT)
+  - [ ] Ch. 20 – Case Studies: Curve Fitting
+- [ ] **Part 6 – Numerical Differentiation and Integration**
+  - [ ] Ch. 21 – Newton-Cotes Integration Formulas
+    - [ ] 21.1 The Trapezoidal Rule
+    - [ ] 21.2 Simpson's Rules
+    - [ ] 21.5 Multiple Integrals
+  - [ ] Ch. 22 – Integration of Equations
+    - [ ] 22.2 Romberg Integration
+    - [ ] 22.3 Adaptive Quadrature
+    - [ ] 22.4 Gauss Quadrature
+    - [ ] 22.6 Monte Carlo Integration
+  - [ ] Ch. 23 – Numerical Differentiation
+    - [ ] 23.1 High-Accuracy Differentiation Formulas
+    - [ ] 23.2 Richardson Extrapolation
+  - [ ] Ch. 24 – Case Studies: Numerical Integration and Differentiation
+- [ ] **Part 7 – Ordinary Differential Equations**
+  - [ ] Ch. 25 – Runge-Kutta Methods
+    - [ ] 25.1 Euler's Method
+    - [ ] 25.2 Improvements of Euler's Method
+    - [ ] 25.3 Runge-Kutta Methods
+    - [ ] 25.4 Systems of Equations
+    - [ ] 25.5 Adaptive Runge-Kutta Methods
+  - [ ] Ch. 26 – Stiffness and Multistep Methods
+  - [ ] Ch. 27 – Boundary-Value and Eigenvalue Problems
+    - [ ] 27.1 General Methods for Boundary-Value Problems
+    - [ ] 27.2 Eigenvalue Problems
+  - [ ] Ch. 28 – Case Studies: Ordinary Differential Equations
+- [ ] **Part 8 – Partial Differential Equations**
+  - [ ] Ch. 29 – Finite Difference: Elliptic Equations
+    - [ ] 29.1 The Laplace Equation
+  - [ ] Ch. 30 – Finite Difference: Parabolic Equations
+    - [ ] 30.1 The Heat-Conduction Equation
+    - [ ] 30.2 Explicit Methods
+    - [ ] 30.3 A Simple Implicit Method
+    - [ ] 30.4 The Crank-Nicolson Method
+  - [ ] Ch. 31 – Finite-Element Method
+  - [ ] Ch. 32 – Case Studies: Partial Differential Equations
